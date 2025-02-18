@@ -2,6 +2,9 @@
 
 This application is a chat interface that allows users to interact with the Arweave network using natural language. It leverages the power of Large Language Models (LLMs) running on a Gaia node to translate user prompts into specific Arweave JS function calls, making it easier to perform various Arweave-related tasks.
 
+
+https://github.com/user-attachments/assets/0dab5fd3-cf67-4478-942d-4d821baee280
+
 ## Overview
 
 The application consists of two main parts:
