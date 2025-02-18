@@ -1,0 +1,34 @@
+/node_modules
+
+# Frontend
+/frontend/node_modules
+/frontend/.DS_Store
+/frontend/.env
+/frontend/.env.*
+/frontend/build
+/frontend/dist
+/frontend/package-lock.json
+
+# Backend
+/backend/node_modules
+/backend/.DS_Store
+/backend/.env
+/backend/.env.*
+/backend/wallet.json
+/backend/package-lock.json
+
+# General
+.DS_Store
+.env
+.env.*
+*.log
+*.swp
+*.swo
+*~
+\#*
+*.dump
+.vscode/
+.idea/
+tmp/
+temp/
+Thumbs.db
